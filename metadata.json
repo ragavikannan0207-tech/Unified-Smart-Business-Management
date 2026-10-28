@@ -1,0 +1,6 @@
+{
+  "name": "Unified Smart Business Management System",
+  "description": "Integrated Sales, Inventory, Purchasing and Business Reporting for retail stores and small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
